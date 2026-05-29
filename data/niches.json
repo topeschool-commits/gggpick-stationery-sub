@@ -1,22 +1,22 @@
 {
     "domain": "stationery.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "다이어리 및 노트",
+        "필기구",
+        "데스크 용품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang stationery items."
+        "다이어리 및 노트": {
+            "topic": "Planners, journals, bullet journals, sticky notes.",
+            "role": "Stationery organization expert."
         },
-        "수유/이유식": {
-            "topic": "stationery bottle sterilizers, stationery food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "필기구": {
+            "topic": "Fountain pens, gel pens, mechanical pencils.",
+            "role": "Writing instruments reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "데스크 용품": {
+            "topic": "Desk organizers, pen holders, mouse pads.",
+            "role": "Workspace decor curator."
         }
     }
 }
